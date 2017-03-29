@@ -16,7 +16,7 @@ References:
   [http://www.danielgilbert.com/Gillbert](http://www.danielgilbert.com/Gillbert)%20How Mental Systems Believe%20.PDF\)
 * [http://comp.uark.edu/~efunkho/ColloquiumSyllabusF15.pdf](http://comp.uark.edu/~efunkho/ColloquiumSyllabusF15.pdf)
 
-* http://www.danielgilbert.com/Gilbert%20et%20al%20\(EVERYTHING%20YOU%20READ\).pdf
+* [http://www.danielgilbert.com/Gilbert et al \(EVERYTHING YOU READ\).pdf](http://www.danielgilbert.com/Gilbert et al %28EVERYTHING YOU READ%29.pdf)
 
 * 
 
