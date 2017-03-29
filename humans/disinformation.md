@@ -12,11 +12,12 @@ References:
 
 * [http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658)
 * Gilbert, how mental system believe, \[
-  [http://www.danielgilbert.com/Gillbert%20\\(How%20Mental%20Systems%20Believe\\).PDF\]\(](http://www.danielgilbert.com/Gillbert%20/%28How%20Mental%20Systems%20Believe/%29.PDF]%28)
+  [http://www.danielgilbert.com/Gillbert%20\\(How%20Mental%20Systems%20Believe\\).PDF\]\(](http://www.danielgilbert.com/Gillbert /%28How Mental Systems Believe/%29.PDF]%28)
   [http://www.danielgilbert.com/Gillbert](http://www.danielgilbert.com/Gillbert)%20How Mental Systems Believe%20.PDF\)
-* http://comp.uark.edu/~efunkho/ColloquiumSyllabusF15.pdf
+* [http://comp.uark.edu/~efunkho/ColloquiumSyllabusF15.pdf](http://comp.uark.edu/~efunkho/ColloquiumSyllabusF15.pdf)
+
+* http://www.danielgilbert.com/Gilbert%20et%20al%20\(EVERYTHING%20YOU%20READ\).pdf
 
 * 
-
 
 
