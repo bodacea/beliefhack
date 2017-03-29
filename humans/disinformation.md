@@ -1,10 +1,10 @@
 # Disinformation
 
-## Misinformation, Disinformation and taxonomies of untruths
+### Misinformation, Disinformation and taxonomies of untruths
 
+Misinformation is accidental; disinformation is deliberate.  When someone disinforms you, they're deliberately trying to change your perceptions, and there's a wide variety of reasons for them doing this, ranging from playfulness or pure malice to financial, political or other forms of gain. 
 
-
-## Gilbert
+### Gilbert
 
 When someone lies to you, it leaves a trace in your brain. We're wired that way. When we're given a new piece of information, we first treat it as true, then question it. Questioning anything means holding it in your head and examining it... by doing this, we commit thoughts to memory, which persists even after disproving those thoughts. Those traces are stronger when we're surprised by a new 'fact'; even when we know something is false, it can be hard to get away from its effects. And those effects can be subtle.
 
@@ -24,7 +24,7 @@ References:
 
 * [http://www.danielgilbert.com/Gilbert et al \(EVERYTHING YOU READ\).pdf](http://www.danielgilbert.com/Gilbert et al %28EVERYTHING YOU READ%29.pdf)
 
-* https://firstdraftnews.com/fake-news-complicated/
+* [https://firstdraftnews.com/fake-news-complicated/](https://firstdraftnews.com/fake-news-complicated/)
 
 * 
 
