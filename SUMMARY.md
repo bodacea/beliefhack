@@ -19,7 +19,8 @@
 
 * [Analysis of Competing Hypotheses](intelligence-analysts-toolkit/analysis-of-competing-hypotheses.md)
 
-## Rough Notes
+## Appendix
 
-* [Notes](rough-notes/notes.md)
+* [References](rough-notes/references.md)
+* [Rough Notes](rough-notes/notes.md)
 
