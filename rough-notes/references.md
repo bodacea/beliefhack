@@ -1,8 +1,13 @@
 # References
 
-* Carl Sagan, [the fine art of baloney detection](http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * Begstron, West "[Calling Bullshit in the Age of Big Data](http://callingbullshit.org/syllabus.html)" - online course
 * ColumbiaX "[DS101X statistical thinking for data science and analytics](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/07958a5e121d4b93a09f06b0b65c3eca/de776b3078614873aebfd0cc7727b304/)", online course
+
+
+
+Stack:
+
+* Carl Sagan, [the fine art of baloney detection](http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * [https://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable](https://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable) &lt;- human response to visual signals
 * [https://www.quora.com/Has-Donald-Trump-been-caught-lying/answer/Andrew-Gumperz?msrid=pNYY&share=122d711f](https://www.quora.com/Has-Donald-Trump-been-caught-lying/answer/Andrew-Gumperz?srid=pNYY&share=122d711f)
 * [https://www.theguardian.com/commentisfree/2017/feb/05/donald-trump-lies-belief-totalitarianism?CMP=Share\_iOSApp\_Other](https://www.theguardian.com/commentisfree/2017/feb/05/donald-trump-lies-belief-totalitarianism?CMP=Share_iOSApp_Other)
@@ -53,7 +58,7 @@
   * [http://foreignpolicy.com/2015/10/30/inside-the-cia-red-cell-micah-zenko-red-team-intelligence/](http://foreignpolicy.com/2015/10/30/inside-the-cia-red-cell-micah-zenko-red-team-intelligence/)
   * [http://www2.parc.com/istl/projects/ach/ach.html](http://www2.parc.com/istl/projects/ach/ach.html)
   * [https://www.linkedin.com/pulse/alternative-analysis-from-cia-ci-dr-avner-barnea](https://www.linkedin.com/pulse/alternative-analysis-from-cia-ci-dr-avner-barnea) \(red cell, Israeli int\)
-  * [https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+%22alternative+analysis%22&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia%20%22alternative%20analysis%22&f=false](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia "alternative analysis"&f=false)
+  * \[[https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia "alternative analysis"&f=false\]\(https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia "alternative analysis"&f=false]%28https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia) "alternative analysis"&f=false\)
 
   * [https://www.jmu.edu/isat/people/faculty/reid-edna.shtml](https://www.jmu.edu/isat/people/faculty/reid-edna.shtml)
 
@@ -81,17 +86,18 @@
 
 * [https://skepticalscience.com/docs/Debunking\_Handbook.pdf](https://skepticalscience.com/docs/Debunking_Handbook.pdf)
 
-* https://en.wikipedia.org/wiki/Counterpropaganda
+* [https://en.wikipedia.org/wiki/Counterpropaganda](https://en.wikipedia.org/wiki/Counterpropaganda)
 
 * [https://www.psywar.org/counterpropaganda.php](https://www.psywar.org/counterpropaganda.php) \(a little sobering reading from 1952\)
 
 * [http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658)
 
-* [http://www.danielgilbert.com/Gillbert%20](http://www.danielgilbert.com/Gillbert%20%28How%20Mental%20Systems%20Believe%29.PDF)[\(How%20Mental%20Systems%20Believe](http://www.danielgilbert.com/Gillbert%20%28How%20Mental%20Systems%20Believe%29.PDF)[\).PDF](http://www.danielgilbert.com/Gillbert%20%28How%20Mental%20Systems%20Believe%29.PDF) &lt;- Gilbert's paper on how we hold information as true before we refute it
+* [http://www.danielgilbert.com/Gillbert%20](http://www.danielgilbert.com/Gillbert %28How Mental Systems Believe%29.PDF)[\(How%20Mental%20Systems%20Believe](http://www.danielgilbert.com/Gillbert %28How Mental Systems Believe%29.PDF)[\).PDF](http://www.danielgilbert.com/Gillbert %28How Mental Systems Believe%29.PDF) &lt;- Gilbert's paper on how we hold information as true before we refute it
 
 * [Belief building under uncertainty](https://www.tandfonline.com/doi/abs/10.1080/713755945)
 
 * [Reasoning in actively open-minded thinking](https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_JEP_1997.pdf)
+
 * [What lay behind Russia’s interference in the 2016 election—and what lies ahead?](http://www.newyorker.com/magazine/2017/03/06/trump-putin-and-the-new-cold-war?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam)
 * [Socially anxious people reason just as well as non-anxious people, except with fear-confirming confirmation biases](https://link.springer.com/article/10.1007/s10608-008-9220-z)
 * [Fear and loathing across party lines - New evidences on Group Polarisation](http://www.conservativecriminology.com/uploads/5/6/1/7/56173731/iyengar-ajps-group-polarization.pdf)
@@ -103,33 +109,38 @@ Infowar:
 * [http://enculturation.net/martial-mcluhan](http://enculturation.net/martial-mcluhan)
 
 * [https://www.buzzfeed.com/charliewarzel/the-right-is-building-a-new-media-upside-down-to-tell-donald?utm\_term=.wb8jXk71d1\#.hq862XAolo](https://www.buzzfeed.com/charliewarzel/the-right-is-building-a-new-media-upside-down-to-tell-donald?utm_term=.wb8jXk71d1#.hq862XAolo)
+
 * [https://www.wesearchr.com/bounties/make-journalism-honest-again](https://www.wesearchr.com/bounties/make-journalism-honest-again)
 
 * [https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/21/people-are-in-the-streets-protesting-donald-trump-but-when-does-protest-actually-work/?utm\_term=.08256b6ca63b](https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/21/people-are-in-the-streets-protesting-donald-trump-but-when-does-protest-actually-work/?utm_term=.08256b6ca63b)
+
 * [http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658)
 
-Other: 
+Other:
 
 * [http://link.springer.com/chapter/10.1007%2F978-3-319-21732-1\_8\#page-1](http://link.springer.com/chapter/10.1007%2F978-3-319-21732-1_8#page-1)
 
 * “Motivated reasoning
+
 * [https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0\#.22h8izxib](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0#.22h8izxib)
 * [https://www.autostraddle.com/this-is-how-fox-news-brainwashes-its-viewers-our-in-depth-investigation-of-the-propaganda-cycle-297107/](https://www.autostraddle.com/this-is-how-fox-news-brainwashes-its-viewers-our-in-depth-investigation-of-the-propaganda-cycle-297107/)
 
 * [http://edition.cnn.com/2016/11/23/opinions/bannon-spencer-white-supremacy-trump-zuckerman/index.html](http://edition.cnn.com/2016/11/23/opinions/bannon-spencer-white-supremacy-trump-zuckerman/index.html)
+
 * [http://lifeboat.com/blog/2016/05/truthsift-a-platform-for-collective-rationality](http://lifeboat.com/blog/2016/05/truthsift-a-platform-for-collective-rationality)
 * [http://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/](http://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/)
 * [http://www.liberalamerica.org/2015/03/14/fundamentalists-fear-intellectualism/](http://www.liberalamerica.org/2015/03/14/fundamentalists-fear-intellectualism/)
 * [http://www.sciencealert.com/researchers-have-figured-out-what-makes-people-reject-science-and-it-s-not-ignorance?utm\_content=buffer2226c&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](http://www.sciencealert.com/researchers-have-figured-out-what-makes-people-reject-science-and-it-s-not-ignorance?utm_content=buffer2226c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 * [http://callingbullshit.org/syllabus.html](http://callingbullshit.org/syllabus.html)
-* [https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37\#.86ydreiwp](https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37#.86ydreiwp) \(counter-hacking\)
+
+* [https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37\#.86ydreiwp](https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37#.86ydreiwp) \(counter-hacking\)
 
 ACH:
 
 * [http://competinghypotheses.org/docs/Download\_and\_Install](http://competinghypotheses.org/docs/Download_and_Install)
 * [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
-* [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf)
+* [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft Primer-apr09.pdf)
 * [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
 
 Other:
@@ -142,13 +153,14 @@ Other:
 * Heuer, Psychology of Intelligence Analysis
 
 * Panton, Common sense reasoning - from Cyc to intelligent assistant
+
 * [http://www.joshuakennon.com/mental-model-gaslighting/](http://www.joshuakennon.com/mental-model-gaslighting/)
 * [http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658)
 * [https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37\#.e237psvlr](https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37#.e237psvlr)
 * [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
 * [https://medium.com/@jugander/truth-lies-and-an-ethics-of-personalization-e4ccfa7f2b84\#.wzt5wzg5k](https://medium.com/@jugander/truth-lies-and-an-ethics-of-personalization-e4ccfa7f2b84#.wzt5wzg5k)
-* Boyd’s destruction and creation [https://en.wikipedia.org/wiki/John\_Boyd\_\(military\_strategist\)\#The\_OODA\_Loop](https://en.wikipedia.org/wiki/John_Boyd_%28military_strategist%29#The_OODA_Loop)
-   and [http://www.au.af.mil/au/awc/awcgate/boyd/osinga\_boydconf07\_copyright2007.pdf](http://www.au.af.mil/au/awc/awcgate/boyd/osinga_boydconf07_copyright2007.pdf)
+* Boyd’s destruction and creation [https://en.wikipedia.org/wiki/John\_Boyd\_\(military\_strategist\)\#The\_OODA\_Loop](https://en.wikipedia.org/wiki/John_Boyd_%28military_strategist%29#The_OODA_Loop)
+   and [http://www.au.af.mil/au/awc/awcgate/boyd/osinga\_boydconf07\_copyright2007.pdf](http://www.au.af.mil/au/awc/awcgate/boyd/osinga_boydconf07_copyright2007.pdf)
 * [http://callingbullshit.org/syllabus.html](http://callingbullshit.org/syllabus.html) &lt;- the whole course!
 
 
