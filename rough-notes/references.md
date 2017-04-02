@@ -3,11 +3,11 @@
 * Begstron, West "[Calling Bullshit in the Age of Big Data](http://callingbullshit.org/syllabus.html)" - online course
 * ColumbiaX "[DS101X statistical thinking for data science and analytics](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2016/courseware/07958a5e121d4b93a09f06b0b65c3eca/de776b3078614873aebfd0cc7727b304/)", online course
 
-
-
 Stack:
 
+* Paul Zak, [The neuroscience of trust](https://hbr.org/2017/01/the-neuroscience-of-trust?utm_campaign=hbr&utm_source=facebook&utm_medium=social), HBR January 2017
 * Carl Sagan, [the fine art of baloney detection](http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
+
 * [https://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable](https://www.seas.harvard.edu/news/2013/10/what-makes-data-visualization-memorable) &lt;- human response to visual signals
 * [https://www.quora.com/Has-Donald-Trump-been-caught-lying/answer/Andrew-Gumperz?msrid=pNYY&share=122d711f](https://www.quora.com/Has-Donald-Trump-been-caught-lying/answer/Andrew-Gumperz?srid=pNYY&share=122d711f)
 * [https://www.theguardian.com/commentisfree/2017/feb/05/donald-trump-lies-belief-totalitarianism?CMP=Share\_iOSApp\_Other](https://www.theguardian.com/commentisfree/2017/feb/05/donald-trump-lies-belief-totalitarianism?CMP=Share_iOSApp_Other)
@@ -24,8 +24,6 @@ Stack:
 * [https://www.theguardian.com/commentisfree/2017/feb/09/despite-lies-donald-trump-potent-truth-teller-shakespearean-fool](https://www.theguardian.com/commentisfree/2017/feb/09/despite-lies-donald-trump-potent-truth-teller-shakespearean-fool)
 
 * [https://qz.com/902573/want-to-resist-the-post-truth-age-learn-to-analyze-photos-like-an-expert-would/?utm\_source=atlfb](https://qz.com/902573/want-to-resist-the-post-truth-age-learn-to-analyze-photos-like-an-expert-would/?utm_source=atlfb)
-
-* [https://hbr.org/2017/01/the-neuroscience-of-trust?utm\_campaign=hbr&utm\_source=facebook&utm\_medium=social](https://hbr.org/2017/01/the-neuroscience-of-trust?utm_campaign=hbr&utm_source=facebook&utm_medium=social)
 
 * [https://www.wired.com/2017/02/dont-believe-lies-just-people-repeat/](https://www.wired.com/2017/02/dont-believe-lies-just-people-repeat/)
 
@@ -58,7 +56,7 @@ Stack:
   * [http://foreignpolicy.com/2015/10/30/inside-the-cia-red-cell-micah-zenko-red-team-intelligence/](http://foreignpolicy.com/2015/10/30/inside-the-cia-red-cell-micah-zenko-red-team-intelligence/)
   * [http://www2.parc.com/istl/projects/ach/ach.html](http://www2.parc.com/istl/projects/ach/ach.html)
   * [https://www.linkedin.com/pulse/alternative-analysis-from-cia-ci-dr-avner-barnea](https://www.linkedin.com/pulse/alternative-analysis-from-cia-ci-dr-avner-barnea) \(red cell, Israeli int\)
-  * \[[https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia "alternative analysis"&f=false\]\(https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia "alternative analysis"&f=false]%28https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia) "alternative analysis"&f=false\)
+  * \[\[[https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia) "alternative analysis"&f=false\]\([https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia\]\(https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia]%28https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia) "alternative analysis"&f=false\]%28[https://books.google.com/books?id=X7i\_I\_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x\_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG\#v=onepage&q=cia](https://books.google.com/books?id=X7i_I_np11IC&pg=PA384&lpg=PA384&dq=cia+"alternative+analysis"&source=bl&ots=x_NMIWAkni&sig=FQ5XNi4cG3u1KDtepGFaDnGpIx4&hl=en&sa=X&ved=0ahUKEwjarpD056rSAhVDSCYKHQaVBZIQ6AEIPDAG#v=onepage&q=cia)\) "alternative analysis"&f=false\)
 
   * [https://www.jmu.edu/isat/people/faculty/reid-edna.shtml](https://www.jmu.edu/isat/people/faculty/reid-edna.shtml)
 
@@ -99,6 +97,7 @@ Stack:
 * [Reasoning in actively open-minded thinking](https://keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_JEP_1997.pdf)
 
 * [What lay behind Russia’s interference in the 2016 election—and what lies ahead?](http://www.newyorker.com/magazine/2017/03/06/trump-putin-and-the-new-cold-war?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam)
+
 * [Socially anxious people reason just as well as non-anxious people, except with fear-confirming confirmation biases](https://link.springer.com/article/10.1007/s10608-008-9220-z)
 * [Fear and loathing across party lines - New evidences on Group Polarisation](http://www.conservativecriminology.com/uploads/5/6/1/7/56173731/iyengar-ajps-group-polarization.pdf)
 * [Red, white, and blue enough to be green: Effects of moral framing on climate change attitudes and conservation behaviors](http://www.sciencedirect.com/science/article/pii/S0022103116301056)
@@ -123,11 +122,13 @@ Other:
 * “Motivated reasoning
 
 * [https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0\#.22h8izxib](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0#.22h8izxib)
+
 * [https://www.autostraddle.com/this-is-how-fox-news-brainwashes-its-viewers-our-in-depth-investigation-of-the-propaganda-cycle-297107/](https://www.autostraddle.com/this-is-how-fox-news-brainwashes-its-viewers-our-in-depth-investigation-of-the-propaganda-cycle-297107/)
 
 * [http://edition.cnn.com/2016/11/23/opinions/bannon-spencer-white-supremacy-trump-zuckerman/index.html](http://edition.cnn.com/2016/11/23/opinions/bannon-spencer-white-supremacy-trump-zuckerman/index.html)
 
 * [http://lifeboat.com/blog/2016/05/truthsift-a-platform-for-collective-rationality](http://lifeboat.com/blog/2016/05/truthsift-a-platform-for-collective-rationality)
+
 * [http://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/](http://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/)
 * [http://www.liberalamerica.org/2015/03/14/fundamentalists-fear-intellectualism/](http://www.liberalamerica.org/2015/03/14/fundamentalists-fear-intellectualism/)
 * [http://www.sciencealert.com/researchers-have-figured-out-what-makes-people-reject-science-and-it-s-not-ignorance?utm\_content=buffer2226c&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](http://www.sciencealert.com/researchers-have-figured-out-what-makes-people-reject-science-and-it-s-not-ignorance?utm_content=buffer2226c&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
@@ -155,6 +156,7 @@ Other:
 * Panton, Common sense reasoning - from Cyc to intelligent assistant
 
 * [http://www.joshuakennon.com/mental-model-gaslighting/](http://www.joshuakennon.com/mental-model-gaslighting/)
+
 * [http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658)
 * [https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37\#.e237psvlr](https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37#.e237psvlr)
 * [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
