@@ -95,7 +95,8 @@ Thinking about \#fakenews.  Starting with “what is it”.
 
 * People often hold conflicting beliefs in their heads \(unless they’re Aspie: Aspies have a hard time doing this\).  Niggling doubts are levers, even when people are still being defensive and doubling-down on their stated beliefs. Look for the traces of these.
 
-* But go gentle. Create too much cognitive dissonance, and people will shut down. Learn from the salesmen on this. 
+* But go gentle. Create too much cognitive dissonance, and people will shut down. Learn from the salesmen on this.
+
 * People are more likely to trust people they know.  Get to know the people whose beliefs you want to change \(even if it means hanging out in conservative chat channels\). Also know that your attention is a resource: learn to distinguish between people who are engaged and might listen \(hint: they’re often the ones shouting at you; they might also be lurkers\), people who won’t, and sock puppets. 
 * More advertising tricks: look for influencers \(not just on Twitter 'cos it’s easy goddammit; check in the real world too\).  There’s only one you: use that you wisely. 
 
@@ -168,27 +169,27 @@ Beliefs post: "You’ve got this the wrong way up": Talk about people thinking a
 
 **On changing people’s \(and machine’s\) minds**
 
-2 parts: 1: changing your own mind: situational awareness, and understanding what’s going on around you and where the levers are to change it; 2: changing other people’s minds. So many pieces. 
+2 parts: 1: changing your own mind: situational awareness, and understanding what’s going on around you and where the levers are to change it; 2: changing other people’s minds. So many pieces.
 
 Changing your own mind
 
-1: Psychology of illusion.  The “car crash” thing - memory traces.  How we piece together what we know from our environments, including our social environments \(is there a gearing effect going on here: we now have access to much larger societies than we ever have, and now we’re not limited to the few in-person interactions plus newspapers and radio that we used to have, are we supercharging this, potentially cognitively biasing ourselves away from what we see in reality\). 
+1: Psychology of illusion.  The “car crash” thing - memory traces.  How we piece together what we know from our environments, including our social environments \(is there a gearing effect going on here: we now have access to much larger societies than we ever have, and now we’re not limited to the few in-person interactions plus newspapers and radio that we used to have, are we supercharging this, potentially cognitively biasing ourselves away from what we see in reality\).
 
-Psychoanalysis is much about getting at this early conditioning. 
+Psychoanalysis is much about getting at this early conditioning.
 
 Changing other people’s minds
 
-2: OODA loops, intelligence cycles, collection, hypotheses, testing those hypotheses with small actions… 
+2: OODA loops, intelligence cycles, collection, hypotheses, testing those hypotheses with small actions…
 
 Machine minds
 
-How does this also apply to machines?  How can we hack the combined person+machine situation and action models?  What can we learn from the military, CIA and our mothers \(who psych-trained us as kids…\)? 
+How does this also apply to machines?  How can we hack the combined person+machine situation and action models?  What can we learn from the military, CIA and our mothers \(who psych-trained us as kids…\)?
 
-A long time ago, if you wanted to study AI, you inevitably ended up reading up on cognitive psychology.  Big data didn’t exist \(well it did, but it was mainly things like the real-time sonar signal processing systems that people like me cut their parallel processing teeth on\), the Cyc system was a Sisyphean attempt to gather enough ‘facts’ to make a large expert system, and most of our efforts revolved around how to make sense of the world given a limited number of ‘facts’ about it \(and also how to make sense of the world, given a limited number of uncertain data points and connections between them\).  And then the internet, and wikipedia, and internet 2.0 where we all became content providers, and suddenly we had so much data that we could just point machine learning algorithms at it, and start finding useful patterns. 
+A long time ago, if you wanted to study AI, you inevitably ended up reading up on cognitive psychology.  Big data didn’t exist \(well it did, but it was mainly things like the real-time sonar signal processing systems that people like me cut their parallel processing teeth on\), the Cyc system was a Sisyphean attempt to gather enough ‘facts’ to make a large expert system, and most of our efforts revolved around how to make sense of the world given a limited number of ‘facts’ about it \(and also how to make sense of the world, given a limited number of uncertain data points and connections between them\).  And then the internet, and wikipedia, and internet 2.0 where we all became content providers, and suddenly we had so much data that we could just point machine learning algorithms at it, and start finding useful patterns.
 
-We relied on two things: having a lot of data, and not needing to be specific: all we cared about was that, on average, the patterns worked.  So we could sell more goods because the patterns that we used to target the types of goods to the types of people most likely to buy them, with the types of prompts that they were most likely to respond to.   But we forgot the third thing: that almost all data collection has human bias in it - either in the collection, the models used or the assumptions made when using them.  
+We relied on two things: having a lot of data, and not needing to be specific: all we cared about was that, on average, the patterns worked.  So we could sell more goods because the patterns that we used to target the types of goods to the types of people most likely to buy them, with the types of prompts that they were most likely to respond to.   But we forgot the third thing: that almost all data collection has human bias in it - either in the collection, the models used or the assumptions made when using them.
 
-We generalize all the time. An astronomer, a physicist and a mathematician are on a train in [Scotland](https://en.wikipedia.org/wiki/Scotland). The astronomer looks out of the window, sees a [black sheep](https://en.wikipedia.org/wiki/Black_sheep) standing in a field, and remarks, "How odd. All the sheep in Scotland are black!" "No, no, no!" says the physicist. "Only some Scottish sheep are black." The mathematician rolls his eyes at his companions' muddled thinking and says, "In Scotland, there is at least one sheep, at least one side of which appears to be black from here some of the time."
+We generalize all the time. An astronomer, a physicist and a mathematician are on a train in [Scotland](https://en.wikipedia.org/wiki/Scotland). The astronomer looks out of the window, sees a [black sheep](https://en.wikipedia.org/wiki/Black_sheep) standing in a field, and remarks, "How odd. All the sheep in Scotland are black!" "No, no, no!" says the physicist. "Only some Scottish sheep are black." The mathematician rolls his eyes at his companions' muddled thinking and says, "In Scotland, there is at least one sheep, at least one side of which appears to be black from here some of the time."
 
 References:
 
@@ -196,11 +197,48 @@ References:
 
 
 
+**Thinking about counter propaganda**
+
+Some random end-of-weekend thoughts about counter propaganda. 
+
+First, is it really propaganda that we’re trying to counter?  Need to separate out what’s our own opinion being challenged, or a different belief system challenging us, or trolling, from what’s active disinformation being used to separate us.  Each of these needs to be treated differently. 
+
+* Our gut opinion.  We each have these: the things that we believe, or highlight because they’re part of our identity. This makes us vulnerable to discussions of bias; we should really try to separate out ourselves what we believe to be fact from what is part of our personal politics. 
+* Different belief system.  This is okay. I don’t want to live in a world where everyone agrees totally on what’s happening and what’s the right thing to do… without the tension of different beliefs and viewpoints, we end up in cognitive bias and everyone risks going wrong. This is politics as normal: if you believe there’s a better way for schoolchildren to get fed than the school providing meals, let’s talk about that… 
+* Trolling. Deliberate disinformation for fun or profit. Generally not targeted at a specific belief change, but often doubles-down on existing disinformation beliefs \(because that’s where the profit is\). 
+* Propaganda. Deliberate disinformation designed to scare and divide us.  This is the thing. Whilst we’re scared, we’re entrenched, and whilst we’re entrenched, the above stuff doesn’t usually happen. 
+
+Now what to do about it:
+
+* Let’s go up the data science escalator on this one.  First off, let’s look at how this is happening. This is much of what’s going on with fake news analysis: looking at sources, channels and reach of propaganda. That, we can do with standard social media analysis tools \(hello retweets, hello network analysis\). 
+* Then its effects. What do we perceive to be the end goals of this propaganda, and what are the observed effects that we’re seeing.  For end goals, we’ll probably have to go to structured analytic techniques and brain out some hypotheses and models for the main players in this space \(what are they likely to be aiming for; how does the observed behavior support that?\).  For observed effects, look again at social media and other places that we see reactions in \(comments sections? \*Shudder\* actually talking to people? - we might need a crowd to help with that…\)
+* And then what we could do to counter those effects.  How can we nudge beliefs without setting off immune systems?  How can we do it without ending up in a heavy game with the people who started the propaganda?  And if that happens, how do we keep trust throughout those games? 
+
+Countering effects:
+
+* This is where all my notes on belief hacking are going.  It’s going to take a while. Here are some thoughts and references...
+* If you run counter propaganda, you need to know who the original intended audiences were, and what the intended messages to them were.  Otherwise, you risk countering the wrong message with the wrong people. Also, there are going to be unintended side effects from the original propaganda \(nobody’s that good - not even you, chaps!\); think about whether they need to be addressed too or can be left. 
+* There are immune systems. You can’t just scream facts and expect them to be believed: too much countering can be  \*ahem\* counterproductive: see the Debunking Handbook
+* Immune systems mean you also need to be delicate, e.g. incremental or sandwiched or forward-and-back or all of these things. 
+* Trust is huge. Find influencers. Find potential allies among them. Have the hard conversations with the ones who will debate with you, and accept that you won’t \(and shouldn’t\) win them over completely, nor they you, but that both your positions might shift a little. Actually, having them shift just a little is useful: it means they won’t get hit by the immune system themselves. 
+* Local is good. Phrase in terms of local, in terms of self-interest. Talk around the controversial thing if you can, especially if naming it makes people double down. 
+* Identity is a thing. Normative belief = believing the things that you think your group expects you to believe. Understand that someone can cogently disbelieve something but still cling to it as normative fact. You might need to speak to identity, and offer a logical way out of this bind.  You might also need to reframe identity as a common identity before things like reinforcement will work.
+* Everything has weaknesses, including propaganda methods. Find them. Exploit them. 
+
+We’re going to need some things:
+
+* “Truthful, honest opposition”. Until we’re honest about ourselves and our own history, and be careful about checking what we broadcast, this just ain’t gonna work. 
+* Emphasis on commonalities. Not just “being human”, but the other things that make us alike/ akin to the original target audiences. 
+* Speed. In early crisismapping deployments, we had about an hour after each event to get hashtags and channels sorted out.  We managed that by having our shit sorted before the events happen. This probably means templates, outlined action plans and a whole bunch of background research as prep, so it’s not all totally reactive. 
+* That background prep.  There are arcs emerging… surely it’s possible to anticipate some of this stuff ahead of time?
+
+In a way, we’re slightly ahead already because we know where this stuff is coming from, and have some ideas of why, how and what’s likely next.  We’re slightly behind because the forces involved are internal, e.g. both us and not-us at the same time, the usual hearts-and-minds power imbalance that Western countries use in other countries isn’t there, and neither is the trust base that makes it easy to discredit disinformers. TBH, in a slightly horrifying way, this is fascinating: like watching a civil war where there are no clear demarcations between factions, or reliving Tolstoy’s description of soldiers from opposite sides discovering how alike they are, except we’re all on the same side and haven’t noticed all the similarities yet. 
+
+We’ll probably have to build something new out of all the other things we know about belief. Influence, audience, trust are all key. 
+
   
 
 
   
-
-
 
 
