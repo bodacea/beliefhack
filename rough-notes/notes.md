@@ -56,10 +56,7 @@ Session: feature selection and attention
 
 [https://www.troyhunt.com/the-beginners-guide-to-breaking-website/](evernote-html-snippet://#)
 
-
-
-“Most people don't have the time or headspace to handle IW: we're going to need to tool up. Is not much, but I'm talking next month on belief, and how some of the pre-big-data AI tools and verification methods we used in mapping could be useful in this new \(for many\) IW world... am hoping it sparks a few people to build stuff.” - me, whilst thoroughly lost somewhere in Harlem.  
-
+“Most people don't have the time or headspace to handle IW: we're going to need to tool up. Is not much, but I'm talking next month on belief, and how some of the pre-big-data AI tools and verification methods we used in mapping could be useful in this new \(for many\) IW world... am hoping it sparks a few people to build stuff.” - me, whilst thoroughly lost somewhere in Harlem.
 
 Dammit. I’ve started talking about belief and information warfare, and my thoughts looked half-baked and now I’m going to have to follow through. I said we’d need to tool up to deal with the non-truths being presented, but that’s only a small part of the thought. So here are some other thoughts.
 
@@ -69,7 +66,7 @@ Dammit. I’ve started talking about belief and information warfare, and my thou
 
 3\) Don’t let the other guys frame your reality. We’re entering a time where misinformation and double-talk are likely to dominate our feeds, and even people we trust are panic-sharing false information. It’s not enough to pick a media outlet or news site or friend to trust, because they’ve been fooled recently too; we’re going to have to work out together how best to keep a handle on the truth. As a first step, we should separate out our belief in a source from our belief in a piece of information from them, and factor in our knowledge about their potential motivations in that.
 
-4\) Verification means going there. For most of us, verification is something we might do up front, but rarely do as a continuing practice. Which, apart from making people easy to phish, also makes us vulnerable to deliberate misinformation. We want to believe stuff? We need to do the leg-work of cross-checking that the source is real \(crisismappers had a bunch of techniques for this, including checking how someone’s social media profile had grown, looking at activity patterns\), finding alternate sources, getting someone to physically go look at something and send photos \(groups like findyr still do this\). We want to do this without so much work every time? We need to share that load; help each other out with [\#icheckedthis](https://www.facebook.com/hashtag/icheckedthis?source=feed_text&story_id=10154418491028736) tags, pause and think before we hit the “share” button.
+4\) Verification means going there. For most of us, verification is something we might do up front, but rarely do as a continuing practice. Which, apart from making people easy to phish, also makes us vulnerable to deliberate misinformation. We want to believe stuff? We need to do the leg-work of cross-checking that the source is real \(crisismappers had a bunch of techniques for this, including checking how someone’s social media profile had grown, looking at activity patterns\), finding alternate sources, getting someone to physically go look at something and send photos \(groups like findyr still do this\). We want to do this without so much work every time? We need to share that load; help each other out with [\#icheckedthis](https://www.facebook.com/hashtag/icheckedthis?source=feed_text&story_id=10154418491028736) tags, pause and think before we hit the “share” button.
 
 5\) Actions really do speak louder than words. There will most likely be a blizzard of information heading our way; we will need to learn how to find the things that are important in it. One of the best pieces of information I’ve ever received \(originally, it was about men\) applies here: “ignore everything they say, and watch everything they do”. Be aware of what people are saying, but also watch their actions. Follow the money, and follow the data; everything leaves a trace somewhere if you know how to look for it \(again, something that perhaps is best done as a group\).
 
@@ -77,29 +74,30 @@ Dammit. I’ve started talking about belief and information warfare, and my thou
 
 I haven’t talked at all about tools yet. That’s for another day. One of the things I’ve been building into my data science practice is the idea of thinking through problems as a human first, before automating them, so perhaps I’ll roll these thoughts around a bit first. I’ve been thinking about things like perception, e.g. a camera’s perception of a car color changes when it moves from daylight to sodium lights, and adaptation \(e.g. using other knowledge like position, shape and plates\) and actions \(clicking the key\) and when beliefs do and don’t matter \(e.g. they’re usually part of an action cycle, but some action cycles are continuous and adaptive, not one-shot things\), how much of data work is based on chasing beliefs and what we can learn from people with different ways of processing information \(hello, Aspies!\), but human first here.
 
-IMP: The internet is \(mostly\) location-independent. That affects perception: if I say my favorite color is green, then the option to follow me and view the colours I like is only available to a few people; others must either follow my digital traces and my friends’ traces \(which can be faked\), believe me or decide to hold an open mind until more evidence appears.  Location independence makes verification hard… 
+IMP: The internet is \(mostly\) location-independent. That affects perception: if I say my favorite color is green, then the option to follow me and view the colours I like is only available to a few people; others must either follow my digital traces and my friends’ traces \(which can be faked\), believe me or decide to hold an open mind until more evidence appears.  Location independence makes verification hard…
 
-We train our algorithms like we train our children. Except we don’t do that.  We install culture, correct ‘errors’ and deviations from that, etc. What’s the algorithmic equivalent of that? 
+We train our algorithms like we train our children. Except we don’t do that.  We install culture, correct ‘errors’ and deviations from that, etc. What’s the algorithmic equivalent of that?
 
-Guv bid is part of belief project. Trying to influence mass of people.  Need to find influencers, but not priest and teacher any more.  Can use social media tricks. To find e.g. network influencers like advertising does. But does this translate to offline?
+Guv bid is part of belief project. Trying to influence mass of people.  Need to find influencers, but not priest and teacher any more.  Can use social media tricks. To find e.g. network influencers like advertising does. But does this translate to offline?
 
 Superbowl. I watched it in a venue that was really really gay. We rooted for Atlanta \("vaguely pro trump", "hey they cheated", "did you notice it's a mostly black team against a mostly nice white boys one?"\) \(But being new York, there were Patriots fans in there too\)…
 
-Thinking about \#fakenews.  Starting with “what is it”. 
+Thinking about \#fakenews.  Starting with “what is it”.
 
-* We’re not dealing with truth here: we’re dealing with gaming belief systems.  That’s what fake news does \(well, one of the things; another thing it does is make money from people reading it\), and just correcting fake news is aiming at the wrong thing.  Because… 
-* Information leaves traces in our heads, even when we know what’s going on. If I jokingly tell you that I’ve crashed your car, then go ‘ha ha’, you know that I didn’t crash your car, but I’ve left a trace in your head that I’m an unsafe driver.  The bigger the surprise of the thing you initially believe, the bigger the trace it leaves \(this is why I never make jokes like that\). 
-* That’s important because \#fakenews isn’t about the thing that’s being said. It’s about the things that are being implied. Always look for the thing being implied. That’s what you have to counter. 
-* Some of those things are, e.g. "Liberals are unpatriotic”.  "Terrorists are a real and present threat \*to you\*". Work out counters for these, and mechanisms for those counters. F’example: wearing US flags at protests and being loudly patriotic whilst standing up for basic rights is a good idea. 
-* Yes, straighten the record, but you’re not aiming at the person \(or site\) spouting fake news.  What you \*are\* trying to change is their readers' belief in whether something is true. 
-* America is a big country. Not everyone can go and see what’s true or not.  Which means they have to trust someone else to go look for them.  The Internet is even bigger. Some of the things on it \(e.g. beliefs about other people’s beliefs\) don’t have physical touchpoints and are impossible to confirm or deny as ‘truth’. 
+* We’re not dealing with truth here: we’re dealing with gaming belief systems.  That’s what fake news does \(well, one of the things; another thing it does is make money from people reading it\), and just correcting fake news is aiming at the wrong thing.  Because… 
+* Information leaves traces in our heads, even when we know what’s going on. If I jokingly tell you that I’ve crashed your car, then go ‘ha ha’, you know that I didn’t crash your car, but I’ve left a trace in your head that I’m an unsafe driver.  The bigger the surprise of the thing you initially believe, the bigger the trace it leaves \(this is why I never make jokes like that\). 
+* That’s important because \#fakenews isn’t about the thing that’s being said. It’s about the things that are being implied. Always look for the thing being implied. That’s what you have to counter. 
+* Some of those things are, e.g. "Liberals are unpatriotic”.  "Terrorists are a real and present threat \*to you\*". Work out counters for these, and mechanisms for those counters. F’example: wearing US flags at protests and being loudly patriotic whilst standing up for basic rights is a good idea. 
+* Yes, straighten the record, but you’re not aiming at the person \(or site\) spouting fake news.  What you \*are\* trying to change is their readers' belief in whether something is true. 
+* America is a big country. Not everyone can go and see what’s true or not.  Which means they have to trust someone else to go look for them.  The Internet is even bigger. Some of the things on it \(e.g. beliefs about other people’s beliefs\) don’t have physical touchpoints and are impossible to confirm or deny as ‘truth’. 
 * Which means you’re trying to change the beliefs of large groups of people, who have a whole bunch of trust issues \(both overtrust for in-group, and serious distrust of out-group people\) and no direct proof.
-* You know who else hacks trust and beliefs in large groups?  Salesmen and advertisers. Learn from them \(oh, and propagandists, but you might want to be careful what you learn there\). 
+* You know who else hacks trust and beliefs in large groups?  Salesmen and advertisers. Learn from them \(oh, and propagandists, but you might want to be careful what you learn there\).
 
-* People often hold conflicting beliefs in their heads \(unless they’re Aspie: Aspies have a hard time doing this\).  Niggling doubts are levers, even when people are still being defensive and doubling-down on their stated beliefs. Look for the traces of these.
-* But go gentle. Create too much cognitive dissonance, and people will shut down. Learn from the salesmen on this. 
-* People are more likely to trust people they know.  Get to know the people whose beliefs you want to change \(even if it means hanging out in conservative chat channels\). Also know that your attention is a resource: learn to distinguish between people who are engaged and might listen \(hint: they’re often the ones shouting at you; they might also be lurkers\), people who won’t, and sock puppets. 
-* More advertising tricks: look for influencers \(not just on Twitter 'cos it’s easy goddammit; check in the real world too\).  There’s only one you: use that you wisely. 
+* People often hold conflicting beliefs in their heads \(unless they’re Aspie: Aspies have a hard time doing this\).  Niggling doubts are levers, even when people are still being defensive and doubling-down on their stated beliefs. Look for the traces of these.
+
+* But go gentle. Create too much cognitive dissonance, and people will shut down. Learn from the salesmen on this. 
+* People are more likely to trust people they know.  Get to know the people whose beliefs you want to change \(even if it means hanging out in conservative chat channels\). Also know that your attention is a resource: learn to distinguish between people who are engaged and might listen \(hint: they’re often the ones shouting at you; they might also be lurkers\), people who won’t, and sock puppets. 
+* More advertising tricks: look for influencers \(not just on Twitter 'cos it’s easy goddammit; check in the real world too\).  There’s only one you: use that you wisely. 
 
 Some reading:
 
@@ -108,68 +106,94 @@ Some reading:
 
 Why is it dangerous \(and pernicious\)?
 
-* Belief affects how people act. 
+* Belief affects how people act. 
 
-What are the core beliefs that we’re fighting here?  What else? 
+What are the core beliefs that we’re fighting here?  What else?
 
-Conversations with people you don’t know or trust… 
+Conversations with people you don’t know or trust…
 
-* I used to be terrified of public speaking \(as in, throw up, run away, do anything but go up to the podium\).  And then I thought about it a bit, and realized that what a talk is is really a conversation starter.  It’s there to frame the start of a discussion. 
+* I used to be terrified of public speaking \(as in, throw up, run away, do anything but go up to the podium\).  And then I thought about it a bit, and realized that what a talk is is really a conversation starter.  It’s there to frame the start of a discussion. 
 
-Lies = conflicts and clashes. Also surprise. Can we use surprise? 
+Lies = conflicts and clashes. Also surprise. Can we use surprise?
 
-“Facts don’t matter: ability to manipulate does”.   
+“Facts don’t matter: ability to manipulate does”.
 
+Talk:
 
-Talk: 
-
-* Intro: What belief is. How people in crowds believe things. Why face to face surveys still matter \(people as BS detectors\). Truth, lies and manipulations \(syntactic, semantic, pragmatic understandings of language: “deep NLP”\). 
-* First half: How much of DS and engineering is based on beliefs. 
-* Second half: how to talk about belief in an environment where people lie. Science fiction of this \(telling the machine not to trust you\), propaganda, 
-* * We’ve already seen this, mapping crises and wars.  Crowdsourcing, verification, information forensics
-  * How do the big guys handle this? Infosec, injection, information incest, CIA processing, military counterintelligence techniques…  surprise… 
+* Intro: What belief is. How people in crowds believe things. Why face to face surveys still matter \(people as BS detectors\). Truth, lies and manipulations \(syntactic, semantic, pragmatic understandings of language: “deep NLP”\). 
+* First half: How much of DS and engineering is based on beliefs. 
+* Second half: how to talk about belief in an environment where people lie. Science fiction of this \(telling the machine not to trust you\), propaganda, 
+* * We’ve already seen this, mapping crises and wars.  Crowdsourcing, verification, information forensics
+  * How do the big guys handle this? Infosec, injection, information incest, CIA processing, military counterintelligence techniques…  surprise… 
   * “Watch what they do, ignore what they say \(ish\)”
 
-A lot of DS is based on belief.  We’ve gone heavy on bayesian statistics lately, and this is what that means… 
+A lot of DS is based on belief.  We’ve gone heavy on bayesian statistics lately, and this is what that means…
 
-This is Bayesian statistics.  It differs/ed from traditional “frequentist” statistics because…  Priors become important. Sampling becomes important...
+This is Bayesian statistics.  It differs/ed from traditional “frequentist” statistics because…  Priors become important. Sampling becomes important...
 
-I spend a lot of time talking about beliefs.  Here’s a LVT, part of the lean enterprise idea.  \(Discuss levels of tree\)…  as a DS, I work one two levels of belief here: belief in what’s important to do \(what has the volume and potential value\), and belief in the results of each experiment.  
+I spend a lot of time talking about beliefs.  Here’s a LVT, part of the lean enterprise idea.  \(Discuss levels of tree\)…  as a DS, I work one two levels of belief here: belief in what’s important to do \(what has the volume and potential value\), and belief in the results of each experiment.
 
-At the bottom level is HDD… the idea that we create hypotheses and test these - having first set what we believe to be appropriate acceptance levels on them.  
+At the bottom level is HDD… the idea that we create hypotheses and test these - having first set what we believe to be appropriate acceptance levels on them.
 
-And I keep hearing the same things when we do things like AB testing.  
+And I keep hearing the same things when we do things like AB testing.
 
-This is AB testing… 
+This is AB testing…
 
-So that’s belief in LE.  
+So that’s belief in LE.
 
-Misinfocon: 
+Misinfocon:
 
-* Persuasive computing, nudges, resonance…, Kant, non-consensual experiments…  
+* Persuasive computing, nudges, resonance…, Kant, non-consensual experiments…  
 
 Counterfactuals!
 
-CIA: describe-explain-evaluate-estimate
+CIA: describe-explain-evaluate-estimate
 
 Pheme project
 
 * [https://www.pheme.eu/](https://www.pheme.eu/)
-* Pheme = rumorous meme. 
-* Veracity tracking… 
-* 4 areas:  speculation, controversy, misinformation, disinformation
+* Pheme = rumorous meme. 
+* Veracity tracking… 
+* 4 areas:  speculation, controversy, misinformation, disinformation
 * 3 parts: information in pheme, cross-reference \(to known sources\), diffusion \(what info to whom, how\)
-* OS tool, based on GATE + onto text + graphdb. 
+* OS tool, based on GATE + onto text + graphdb. 
 
+“Watch everything they do, ignore everything they say”.  We’ve spent years observing people to understand what they’re really doing… we’re moving into an era where \(unless we really carefully design our tools to be comprehensible\) we’ll have to do the same with machines.  Specifically, with anything using deep learning.  Sunlight detector… built-in biases from data… autonomous systems…
 
+LVT for winning an election… here’s the tree, here’s how you might start to hack that tree using dev techniques.  Market analysis and segmentation - adaptive segmentation… persuasion…
 
-“Watch everything they do, ignore everything they say”.  We’ve spent years observing people to understand what they’re really doing… we’re moving into an era where \(unless we really carefully design our tools to be comprehensible\) we’ll have to do the same with machines.  Specifically, with anything using deep learning.  Sunlight detector… built-in biases from data… autonomous systems… 
+LVT for an org… where data science fits into that… where belief fits into that…
 
-LVT for winning an election… here’s the tree, here’s how you might start to hack that tree using dev techniques.  Market analysis and segmentation - adaptive segmentation… persuasion… 
+Beliefs post: "You’ve got this the wrong way up": Talk about people thinking about truth when they should be talking about belief.
 
-LVT for an org… where data science fits into that… where belief fits into that… 
+**On changing people’s \(and machine’s\) minds**
 
-Beliefs post: "You’ve got this the wrong way up": Talk about people thinking about truth when they should be talking about belief.   
+2 parts: 1: changing your own mind: situational awareness, and understanding what’s going on around you and where the levers are to change it; 2: changing other people’s minds. So many pieces. 
+
+Changing your own mind
+
+1: Psychology of illusion.  The “car crash” thing - memory traces.  How we piece together what we know from our environments, including our social environments \(is there a gearing effect going on here: we now have access to much larger societies than we ever have, and now we’re not limited to the few in-person interactions plus newspapers and radio that we used to have, are we supercharging this, potentially cognitively biasing ourselves away from what we see in reality\). 
+
+Psychoanalysis is much about getting at this early conditioning. 
+
+Changing other people’s minds
+
+2: OODA loops, intelligence cycles, collection, hypotheses, testing those hypotheses with small actions… 
+
+Machine minds
+
+How does this also apply to machines?  How can we hack the combined person+machine situation and action models?  What can we learn from the military, CIA and our mothers \(who psych-trained us as kids…\)? 
+
+A long time ago, if you wanted to study AI, you inevitably ended up reading up on cognitive psychology.  Big data didn’t exist \(well it did, but it was mainly things like the real-time sonar signal processing systems that people like me cut their parallel processing teeth on\), the Cyc system was a Sisyphean attempt to gather enough ‘facts’ to make a large expert system, and most of our efforts revolved around how to make sense of the world given a limited number of ‘facts’ about it \(and also how to make sense of the world, given a limited number of uncertain data points and connections between them\).  And then the internet, and wikipedia, and internet 2.0 where we all became content providers, and suddenly we had so much data that we could just point machine learning algorithms at it, and start finding useful patterns. 
+
+We relied on two things: having a lot of data, and not needing to be specific: all we cared about was that, on average, the patterns worked.  So we could sell more goods because the patterns that we used to target the types of goods to the types of people most likely to buy them, with the types of prompts that they were most likely to respond to.   But we forgot the third thing: that almost all data collection has human bias in it - either in the collection, the models used or the assumptions made when using them.  
+
+We generalize all the time. An astronomer, a physicist and a mathematician are on a train in [Scotland](https://en.wikipedia.org/wiki/Scotland). The astronomer looks out of the window, sees a [black sheep](https://en.wikipedia.org/wiki/Black_sheep) standing in a field, and remarks, "How odd. All the sheep in Scotland are black!" "No, no, no!" says the physicist. "Only some Scottish sheep are black." The mathematician rolls his eyes at his companions' muddled thinking and says, "In Scotland, there is at least one sheep, at least one side of which appears to be black from here some of the time."
+
+References:
+
+* Also include notes on axes etc from Storytelling with data
+
 
 
   
@@ -178,6 +202,5 @@ Beliefs post: "You’ve got this the wrong way up": Talk about people thinking 
   
 
 
-  
 
 
